@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1560412633 source:e:\embedded system\prepare\stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
